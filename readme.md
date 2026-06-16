@@ -239,8 +239,8 @@ Authorization: Bearer <your_token>
 
 ##  Author
 
-- Erukula Yugesh
-- Contact : **yugesherukula1@gmail.com**
+- Krishna Gundeboina
+- Contact : **sivakrishnagundeboina@gmail.com**
 
 
 ##  Project Highlights
